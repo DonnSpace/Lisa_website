@@ -19,6 +19,9 @@ function LisaNavbar() {
 
 					<ul className="hidden md:flex justify-between items-center capitalize md:bg-gray-200/50 backdrop-blur-2xl md:px-5 md:rounded-full">
 						<li className="">
+							<a href="#" className="p-3 hover:text-lisa-primary cursor-pointer">Lisa</a>
+						</li>
+						<li className="">
 							<a href="#Services" className="p-3 hover:text-lisa-primary cursor-pointer">Services</a>
 						</li>
 						<li className="">
@@ -26,9 +29,6 @@ function LisaNavbar() {
 						</li>
 						<li className="">
 							<a href="#Resume" className="p-3 hover:text-lisa-primary cursor-pointer">Resume</a>
-						</li>
-						<li className="">
-							<a href="#Donn" className="p-3 hover:text-lisa-primary cursor-pointer">Donn</a>
 						</li>
 						<li className="ml-3">
 							<a
@@ -51,6 +51,9 @@ function LisaNavbar() {
 						}`}>
 						<ul className="block justify-between items-center capitalize w-full">
 							<li className="">
+								<a href="#"className="cursor-pointer p-3 hover:text-lisa-primary border-b border-gray-300 w-full">Lisa</a>
+							</li>
+							<li className="">
 								<a href="#Services"className="cursor-pointer p-3 hover:text-lisa-primary border-b border-gray-300 w-full">Services</a>
 							</li>
 							<li className="">
@@ -58,9 +61,6 @@ function LisaNavbar() {
 							</li>
 							<li className="">
 								<a href="#Resume"className="cursor-pointer p-3 hover:text-lisa-primary border-b border-gray-300 w-full">resume</a>
-							</li>
-							<li className="">
-								<a href="#Donn"className="cursor-pointer p-3 hover:text-lisa-primary border-b border-gray-300 w-full">Donn</a>
 							</li>
 							<li className="my-3">
 							<a

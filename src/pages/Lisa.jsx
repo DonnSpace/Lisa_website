@@ -66,7 +66,7 @@ function LisaSite() {
 			</div>
 
 			{/* Services Section  */}
-			<div id='#Services'>
+			<div id='Services'>
 				<div className='lisaContainer lisaSection'>
 					<div>
 						<h2 className='lisaHeading text-center text-3xl'>Things I Do</h2>
@@ -93,7 +93,7 @@ function LisaSite() {
 			</div>
 
 			{/* Work Section  */}
-			<div id='#Work'>
+			<div id='Work'>
 				<div className=' lisaSection'>
 					<div className='lisaContainer'>
 						<h2 className='lisaHeading text-center text-3xl'>Recent Work</h2>
@@ -118,7 +118,7 @@ function LisaSite() {
 			</div>
 
 			{/* Contact Section  */}
-			<div id='#Resume' className=''>
+			<div id='Resume' className=''>
 				<div className='lisaContainer lisaSection'>
 					<div className='pt-24 pb-94 md:pt-0 md:pb-0'>
 						<div className='min-[550px]:w-[70%] md:w-[40%] lg:w-[60%] z-2'>

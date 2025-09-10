@@ -9,10 +9,10 @@ function App() {
 			<div className=''>
 				<LisaSite />
 
-				{/* <Routes>
-					<Route path='/' element={<LisaSite />} />
-					<Route path='*' element={<NotFound />} />
-				</Routes> */}
+				{/* <Routes> */}
+					{/* Navigation bar link items  */}
+						{/* <Route path="/" element={<LisaSite />} /> */}
+				{/* </Routes> */}
 			</div>
 		</div>
 	);
